@@ -9,6 +9,7 @@
 
 ***Data Dictionary***
 | Column Name        | Data Type | Description                                                                        |
+|--------------------|-----------|------------------------------------------------------------------------------------|
 | 'author_username'  | string    | The Reddit username of the poster                                                  |
 | 'author_id'        | string    | The id assigned to the poster by Reddit                                            |
 | 'post_text'        | string    | The text body of the Reddit post                                                   |
